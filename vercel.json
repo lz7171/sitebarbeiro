@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "rootDirectory": "barbearia",
+      "name": "barbearia-cliente"
+    },
+    {
+      "rootDirectory": "admin",
+      "name": "barbearia-admin"
+    }
+  ]
+}
